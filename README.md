@@ -59,4 +59,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 If you encounter any issues or have questions, feel free to open an issue on GitHub.
 
 ```sh
-git clone https://github.com/t4by/IGNITE-TELEPORT.git resources/ignite-teleport
