@@ -1,4 +1,4 @@
-# IGNITE-TELEPORT
+# IGNITE-TELEPORT 🎉
 
 IGNITE-TELEPORT is a FiveM script for the QBCore framework that allows administrators to teleport to predefined locations using simple commands. This script ensures that only players with the "admin" group can access these commands, providing a convenient tool for server management.
 
