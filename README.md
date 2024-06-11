@@ -29,12 +29,14 @@ ensure ignite-teleport
 
 The teleport coordinates are predefined in the ignite-teleport.lua file. You can customize these coordinates as needed:
 
+```
 local teleportCoords = {
     police = vector4(425.1, -979.5, 30.7, 90.0), -- Police coords
     ems = vector4(298.3, -584.7, 43.3, 0.0), -- EMS coords
     legion = vector4(215.8, -810.2, 30.7, 0.0), -- Legion coords
     paleto = vector4(-449.7, 6012.9, 31.7, 45.0) -- Paleto coords
 }
+```
 
 ## Usage
 
